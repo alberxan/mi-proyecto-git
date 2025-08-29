@@ -1,0 +1,8 @@
+# Logs
+*.log
+# Entornos
+.venv/
+node_modules/
+# SO
+.DS_Store
+Thumbs.db
